@@ -1,0 +1,11 @@
+pink  : #f06292
+purple : #ba68c8
+yellow : #ffd54f
+blue : #4fc3f7
+green : #aed581
+
+bg: #eaeaea
+
+button : #44c767
+
+h2 color :#818181
